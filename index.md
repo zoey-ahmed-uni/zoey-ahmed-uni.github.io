@@ -20,7 +20,7 @@ You wake up in your student accommodation and look outside to realise your campu
 - Alanah Bell: [@alanahbell](https://github.com/alanahbell)
 
 # PDF Links
-- [Requirements](https://github.com/ahmination/2025-26-Engineering-1-/blob/main/PDFs/Req1.pdf)
+- [Requirements](/assets/Req1.pdf)
 - Architecture : <<TODO>>
 - Method selection and planning : <<TODO>>
 - Risk assessment and mitigation : <<TODO>>
