@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Architecture Appendix."
+categories: jekyll update
+---
+
+# OOP UML Component Diagram
+
+![OOP UML Component Diagram](/assets/UML1.png)
+
+# UML Use Case Diagrams
+
+## Use Case 1 
+![UML Diagram for Usecase 1](/assets/UMLCase1.png)
+## Use Case 2
+![UML Diagram for Usecase 2](/assets/UMLCase2.png)
+## Use Case 3
+![UML Diagram for Usecase 3](/assets/UMLCase3.png)
+
+
+
+# CRC Cards Table 
+
+![CRC Table](/assets/CRC1.png)
+![CRC Table](/assets/CRC2.png)
+![CRC Table](/assets/CRC3.png)
+
