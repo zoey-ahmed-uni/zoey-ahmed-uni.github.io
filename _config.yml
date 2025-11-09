@@ -21,7 +21,7 @@
 title: Escape from University!
 email: stk536@york.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A 2D game about running from the evil professors and ducks that inhibit the University Of York. Created with LibGDX and Java.
+  A 2D game about escaping a maze University Of York, while evading the dean and collecting sweet treats. Created with LibGDX and Java.
 github_username: zoey-ahmed-uni 
 
 # Build settings
@@ -30,8 +30,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
 
-show_downloads: true 
+show_downloads: true
 github:
+  is_project_page: true
   game_repo : https://github.com/ahmination/2025-26-Engineering-1-
   jar_url : /assets/Game.jar
 
