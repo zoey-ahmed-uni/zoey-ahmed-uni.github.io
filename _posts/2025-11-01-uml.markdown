@@ -4,13 +4,13 @@ title:  "Architecture Appendix."
 categories: jekyll update
 ---
 
-# ESC Component Diagrams
+# ECS Component Diagrams
 
 ## Version 1
-![ESC Component Diagram](/assets/ESC1.png)
+![ECS Component Diagram](/assets/ECS1.png)
 
 ## Version 2
-![ESC Component Diagram](/assets/ESC2.png)
+![ECS Component Diagram](/assets/ECS2.png)
 
 # UML Use Case Diagrams
 
@@ -25,12 +25,11 @@ categories: jekyll update
 
 ![CRC Table](/assets/CRC1.png)
 ![CRC Table](/assets/CRC2.png)
-![CRC Table](/assets/CRC3.png)
 
 # OOP Main Components
 ![OOP Main Components](/assets/OOPComponets.png)
 
-# OOP Diagrams 
+# OOP Component Diagrams 
 
 ## Version 1 
 ![OOP Diagram Version 1](/assets/OOPV1.png)
